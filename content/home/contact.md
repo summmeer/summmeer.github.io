@@ -29,6 +29,7 @@ content:
   phone: (+86) 13162076936
   address:
     city: Shanghai
+    region: China
     country: China
     country_code: CN
   # contact_links:
