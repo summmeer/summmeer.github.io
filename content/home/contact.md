@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: hisansas@gmail.com
-  phone: (+86) 13162076936
   address:
     city: Shanghai
     region: China
