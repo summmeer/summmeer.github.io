@@ -16,7 +16,7 @@ main:
   - name: Projects
     url: 'project/'
     weight: 60
-  - name: Posts
+  - name: Blog
     url: 'post/'
     weight: 70
 
