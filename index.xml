@@ -19,7 +19,129 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Positive, Negative and Neutral: Modeling Implicit Feedback in Session-based News Recommendation</title><link>https://summmeer.github.io/project/newsrec/</link><pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/project/newsrec/</guid><description>&lt;p>In this paper, we are interested in exploiting user actions outside the clicks themselves. We call them &amp;ldquo;implicit feedback&amp;rdquo;. Typical implicit feedback can be extracted from browsing the main page, reading an article, closing an article, backtracking, etc. We believe that modeling such implicit feedback &amp;ldquo;explicitly&amp;rdquo; in the session-based recommendation system can help the recommender understand user intention better. In this work, we focus on answering these questions:&lt;/p>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Survey list of diffusion models</title><link>https://summmeer.github.io/post/getting-started/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/post/getting-started/</guid><description>&lt;h3 id="classical-model-unconditional">Classical model (unconditional)&lt;/h3>
+&lt;ol>
+&lt;li>Diffusion original&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Jascha Sohl-Dickstein et al. “Deep Unsupervised Learning using Nonequilibrium Thermodynamics.” ICML 2015.&lt;/li>
+&lt;/ul>
+&lt;ol start="2">
+&lt;li>NCSN and NCSNv2 (noise-conditioned score network)
+Score-based generative modeling + Langevin dynamics&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>
+&lt;p>Yang Song &amp;amp; Stefano Ermon. “Generative modeling by estimating gradients of the data distribution.” NeurIPS 2019.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yang Song &amp;amp; Stefano Ermon. “Improved techniques for training score-based generative models.” NeurIPS 2020. (for higher resolution)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>DDPM&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>
+&lt;p>Jonathan Ho et al. “Denoising diffusion probabilistic models.” NeurlPS 2020.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alex Nichol &amp;amp; Prafulla Dhariwal. “ Improved denoising diffusion probabilistic models” ICML 2021. (ImageNet)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;ol start="4">
+&lt;li>DDIM non- Markov chain to speed up&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Jiaming Song et al. “Denoising diffusion implicit models.” ICLR 2021.&lt;/li>
+&lt;/ul>
+&lt;h3 id="domain">Domain&lt;/h3>
+&lt;ol>
+&lt;li>Image&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Prafula Dhariwal &amp;amp; Alex Nichol. &amp;ldquo;Diffusion Models Beat GANs on Image Synthesis.&amp;rdquo; NeurIPS 2021.&lt;/li>
+&lt;/ul>
+&lt;ol start="2">
+&lt;li>Time series&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Yang Song, CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS, 2021&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>Text&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>
+&lt;p>Nikolay Savinov, Aaron van den Oord. &amp;ldquo;Step-unrolled Denoising Autoencoders for Text Generation.&amp;rdquo; ICLR 2022. [SUNDAE code non-official] (baseline: Disco, CMLM)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Emiel Hoogeboom Max Welling. &amp;ldquo;Argmax flows and multinomial diffusion: Towards non-autoregressive language models.&amp;rdquo; NeurIPS 2021. [code1, code2] (image+text)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jacob Austin, Rianne van den Berg. &amp;ldquo;Structured denoising diffusion models in discrete state-spaces.&amp;rdquo; NeurIPS 2021. [D3PM code] (image+text)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>AUTOREGRESSIVE DIFFUSION MODELS. ICLR 2022&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Diffusion-LM Improves Controllable Text Generation&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;ol start="4">
+&lt;li>Speech&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>
+&lt;p>Gautam Mittal, Ian Simon. &amp;ldquo;Symbolic music generation with diffusion models.&amp;rdquo; ISMIR 2021. (SMG)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>WaveGrad: Estimating Gradients for Waveform Generation. ICLR 2021&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;ol start="5">
+&lt;li>text2img&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>
+&lt;p>Chitwan Saharia. &amp;ldquo;Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding&amp;rdquo;. [non-official code]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Ramesh, Mark Chen. &amp;ldquo;Hierarchical Text-Conditional Image Generation with CLIP Latents&amp;rdquo;.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>KNN-Diffusion: Image Generation via Large-Scale Retrieval&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="compare-text-generation">Compare Text Generation&lt;/h3>
+&lt;ol>
+&lt;li>AR vs NAR:&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>ARDM uses order-agnostic AR (parallelized)
+NAR: multinomial diffusion, D3PM, SUNDAE, SMG, Diffusion-LM&lt;/li>
+&lt;/ul>
+&lt;ol start="2">
+&lt;li>Continuous vs discrete:&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>ARDM, D3PM, SUNDAE is discrete (clear transition)
+Diffusion-LM is continuous, SMG first uses VAE to encode&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>Controllable:&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Diffusion-LM uses plug and play&lt;/li>
+&lt;li>WaveGrad uses condition with diffusion model&lt;/li>
+&lt;li>CSDI: condition on input sequence&lt;/li>
+&lt;/ul></description></item><item><title>Dynamic Product Categorization for Multiple Domain</title><link>https://summmeer.github.io/project/productcate/</link><pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/project/productcate/</guid><description>&lt;p>Product categorization is to assign a product with a suitable category, which is usually organized in a predefined taxonomy. As e-commerce platforms developing different business lines, a special but challenging categorization scenario emerges, where there are multiple domain-specific category taxonomies and each of them evolves dynamically over time.&lt;/p>
+&lt;p>In order to unify the categorization process and jointly utilize the cross-domain data, we propose a two-stage taxonomy-agnostic framework that relies solely on calculating the semantic relatedness between product titles and category names in the vector space.&lt;/p>
+&lt;p>However, pure vector matching may fall for the surface form of text, and we thus further leverage the universal “knowledge” across different business domains to complement textual semantics. We design a heuristic retrieval strategy and pretrain a contrastive ranking model with the help of “concept”, which resembles the shared keyword knowledge cross domains.&lt;/p>
+&lt;p>Our comprehensive experiments show that our method outperforms existing sophisticated approaches quantitatively and efficiently on dynamical multi-domain taxonomies.&lt;/p></description></item><item><title>Positive, Negative and Neutral: Modeling Implicit Feedback in Session-based News Recommendation</title><link>https://summmeer.github.io/project/newsrec/</link><pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/project/newsrec/</guid><description>&lt;p>In this paper, we are interested in exploiting user actions outside the clicks themselves. We call them &amp;ldquo;implicit feedback&amp;rdquo;. Typical implicit feedback can be extracted from browsing the main page, reading an article, closing an article, backtracking, etc. We believe that modeling such implicit feedback &amp;ldquo;explicitly&amp;rdquo; in the session-based recommendation system can help the recommender understand user intention better. In this work, we focus on answering these questions:&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>If a user clicked an article, did she really like it?&lt;/p>
@@ -33,58 +155,15 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/ul>
 &lt;p>First, in traditional recommendation systems, “clicks” usually indicate a “like” or a vote from the user, but things are a bit different for news reading. Users may be “tricked” into clicking an article and once they realize that, they will quickly back out and switch to other articles. Thus the time a user spends on reading an article article, than just the click alone, which is only binary. We model this as the implicit positive feedback in this paper.&lt;/p>
 &lt;p>Second, just because the user did not click on an article does not necessarily mean the user does not like it; maybe she was never exposed to this article!We can infer what articles might have an impression on the user during a session by by assuming that articles are presented to the user roughly in the order of their publication time. Only those articles within her list of impressions but not clicked are considered &amp;ldquo;not interesting&amp;rdquo; to her. This is called implicit negative feedback.&lt;/p>
-&lt;p>Finally, while the positive and negative feedback helps us estimate the connection between the user and articles, some critical temporal information is useful to model the user and the articles individually. The session start time of a user may suggest the daily routine of that user. We can expect users who read on the same day of a week or same time of a day to have to share the same reading behavior or even background. On the other hand, the publishing time of each article can also be formed into a sequence in a session, which reflects the user’s sensitivity of the timeliness of the stories. We thus carefully design the representation of session start time and article publishing time as implicit neutral feedback.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://summmeer.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
-&lt;ol>
-&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
-&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
-&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
-&lt;/ol>
-&lt;figure id="figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-&lt;/figcaption>&lt;/figure>
-&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;p>Finally, while the positive and negative feedback helps us estimate the connection between the user and articles, some critical temporal information is useful to model the user and the articles individually. The session start time of a user may suggest the daily routine of that user. We can expect users who read on the same day of a week or same time of a day to have to share the same reading behavior or even background. On the other hand, the publishing time of each article can also be formed into a sequence in a session, which reflects the user’s sensitivity of the timeliness of the stories. We thus carefully design the representation of session start time and article publishing time as implicit neutral feedback.&lt;/p></description></item><item><title>Iwenbooks Development</title><link>https://summmeer.github.io/project/iwen/</link><pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/project/iwen/</guid><description>&lt;p>Iwen is a book and news reading APP, which currently provides service for more than 20,000 users. Many useful modules are implemented in this APP which help users to better understand the reading materials, for example, the TTS(text-to-speech), auto-translation, auto-question-generation and so on.&lt;/p>
+&lt;p>Besides the role of CTO and team management. I mainly responsible for the back-end development, the database maintenance and the implementation of recommendation algorithm.&lt;/p>
 &lt;ul>
-&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
-&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
-&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
-&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
-&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
-&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
-&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
-&lt;/ul>
-&lt;h2 id="inspiration">Inspiration&lt;/h2>
-&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
-&lt;h2 id="features">Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
-&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
-&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
-&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
-&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
-&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
-&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
-&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
-&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
-&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
-&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
-&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
-&lt;/ul>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
-&lt;h2 id="license">License&lt;/h2>
-&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title/><link>https://summmeer.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/admin/config.yml</guid><description/></item></channel></rss>
+&lt;li>Design the database structure for the news/user data and develop API for the front-end.&lt;/li>
+&lt;li>Implement the vanilla book/news recommendation system, which is based on a hybrid strategy combining collaborative filtering and user portraits. For books, I consider content information like the abstract and timeliness of books in the users&amp;rsquo; history to model users&amp;rsquo; interests. For news, I summarize the topic that each user may be interested in and adjust the recommendation score personalizely for them in real time.&lt;/li>
+&lt;/ul></description></item><item><title>A Search Engine from scratch based on the WikiPedia data</title><link>https://summmeer.github.io/project/wing/</link><pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/project/wing/</guid><description>&lt;p>Wikipedia is a well-known free online encyclopedia, created and edited by volunteers around the world, and it offers free copies of all available content, where we can get the latest complete dump of the English-language Wikipedia. Thus, we build a Wikipedia-based search engine: Wing, with 5 sort algorithms, a well-designed GUI, and the responsive time scale of millisecond. Wing is short for ``Wing Is Not Google&amp;rsquo;'.&lt;/p>
+&lt;p>After we download the 17GB zip file of the whole raw data and unzip it, we use a Wiki-Extractor tool to extract around 10 million documents. We use SPIMI (Single-Pass In-Memory Indexing) algorithm to construct posting list.&lt;/p>
+&lt;h3 id="algorithm-optimize">Algorithm Optimize&lt;/h3>
+&lt;p>TF-IDF based methods will give short articles high weights. So, there will be a problem that some docs that their content is very short but not very relative to the query, have high weights in ranking results. Thus, when we calculate the term frequency, we increase the term frequency of the words that appear in the title. Through this way, we can filter some short but meaning less docs and get what we want.&lt;/p>
+&lt;p>We optimized TF-IDF with PageRank score, which is computed to measure the authority of pages.&lt;/p>
+&lt;h3 id="developemnt">Developemnt&lt;/h3>
+&lt;p>We adopt Flask to enable our back end. Flask is a microframework for web appliction written in Python. Front end is implemented with Vue. Vue is a progressive framework for building user interfaces. Also, we use Element UI, a desktop component library, to make our interface more beautiful and user-friendly. Front end includes three pages: welcome page, query page, and article page. It is well known that Python program is running as a single process and is very slow. To speed up our program written by Python, we use Multiprocess package to accelerate our for-loop.&lt;/p></description></item><item><title/><link>https://summmeer.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/admin/config.yml</guid><description/></item></channel></rss>
