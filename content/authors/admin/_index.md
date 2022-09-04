@@ -25,7 +25,7 @@ social:
   #   link: https://www.linkedin.com/
 organizations:
   - name: Shanghai AI Lab
-    url: https://www.shlab.org.cn/
+    url: 
 education:
   courses:
     - course: MEng in Computer Science
