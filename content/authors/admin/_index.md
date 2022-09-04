@@ -41,4 +41,4 @@ highlight_name: true
 
 Shansan Gong pursues her bachelor degree of EE and master degree of CS in Shanghai Jiao Tong University (SJTU). Her current research interests include diffusion model, text generation, hierarchical text classification and recommendation system.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
