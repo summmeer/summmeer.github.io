@@ -14,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2022-07-01T00:00:00Z'
-doi: '3477495.3532040'
+doi: '10.1145/3477495.3532040'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -32,7 +32,7 @@ publication_short: In *SIGIR*
 abstract: News recommendation for anonymous readers is a useful but challenging task for many news portals, where interactions between readers and articles are limited within a temporary login session. Previous works tend to formulate session-based recommendation as a next item prediction task, while they neglect the implicit feedback from user behaviors, which indicates what users really like or dislike. Hence, we propose a comprehensive framework to model user behaviors through positive feedback (i.e., the articles they spend more time on) and negative feedback (i.e., the articles they choose to skip without clicking in). Moreover, the framework implicitly models the user using their session start time, and the article using its initial publishing time, in what we call neutral feedback. Empirical evaluation on three real-world news datasets shows the framework's promising performance of more accurate, diverse and even unexpectedness recommendations than other state-of-the-art session-based recommendation approaches.
 
 # Summary. An optional shortened abstract.
-summary: We propose a comprehensive framework to model user behaviors through implicit feedback. Empirical evaluation on three real-world news datasets shows the framework?s promising performance of more accurate, diverse and even unexpectedness recommendations than other state-of-the-art session-based recommendation approaches.
+summary: We propose a comprehensive framework to model user behaviors through implicit feedback. Empirical evaluation on three real-world news datasets shows the framework's promising performance of more accurate, diverse and even unexpectedness recommendations than other state-of-the-art session-based recommendation approaches.
 
 tags: ['Recommendation System']
 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/10.1145/3477495.3532040'
+url_pdf: 'https://summmeer.github.io/publication/NewsRec/paper_news_final.pdf'
 url_code: 'https://github.com/summmeer/session-based-news-recommendation'
 url_dataset: ''
 url_poster: ''

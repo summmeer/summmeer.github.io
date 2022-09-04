@@ -53,7 +53,7 @@ experience:
         * The task is about cross-language query intent recognition, and we introduce **PostWeb** information (ie, text information such as the title, link, and abstract of the query search result) as an additional feature of the query.
         * The classification model increases the AUC by about 1% on the test data set, while achieve around 5% improvement on financial stock test data set.
   
-  - title: Backend Engineer
+  - title: CTO
     company: Iwenbooks
     company_url: 'http://adapt.seiee.sjtu.edu.cn/iwen/'
     company_logo: iwen
