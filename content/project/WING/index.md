@@ -7,7 +7,7 @@ tags:
 date: '2021-05-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/summmeer/Search-Engine-based-on-Wiki-data'
+# external_link: 'https://github.com/summmeer/Search-Engine-based-on-Wiki-data'
 
 image:
   caption: The overflow of WING
