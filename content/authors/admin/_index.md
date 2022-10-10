@@ -2,10 +2,10 @@
 title: Shansan Gong (Sansa)
 role: NLP learner and researcher
 avatar_filename: "avatar.jpg"
-bio: Research interests include text generation, hierarchical text classification and recommendation system.
+bio: Research interests include text generation, diffusion models, recommendation systems.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Natural Language Processing
   - Information Retrieval
 social:
   - icon: envelope
@@ -39,6 +39,6 @@ superuser: true
 highlight_name: true
 ---
 
-Shansan Gong pursues her bachelor degree of EE and master degree of CS in Shanghai Jiao Tong University (SJTU). Her current research interests include diffusion model, text generation, hierarchical text classification and recommendation system.
+Shansan Gong pursues her bachelor's degree in EE and master's degree in CS at Shanghai Jiao Tong University (SJTU). Her current research interests include diffusion model and text generation and she used to study hierarchical text classification and recommendation systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

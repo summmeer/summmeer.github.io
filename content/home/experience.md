@@ -29,7 +29,7 @@ experience:
     location: Shanghai
     date_start: '2022-06-01'
     date_end: ''
-    description: Mainly interested in diffusion model and controllable text generation.
+    description: Mainly interested in diffusion model and controllable text generation. Responsible for sequence-to-sequence text generation tasks based on diffusion models.
 
   - title: Research Engineer
     company: Meituan

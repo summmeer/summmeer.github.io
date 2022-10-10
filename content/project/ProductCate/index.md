@@ -32,7 +32,7 @@ url_video: ''
 # slides: example
 ---
 
-Product categorization is to assign a product with a suitable category, which is usually organized in a predefined taxonomy. As e-commerce platforms developing different business lines, a special but challenging categorization scenario emerges, where there are multiple domain-specific category taxonomies and each of them evolves dynamically over time. 
+Product categorization is to assign a product with a suitable category, which is usually organized in a predefined taxonomy. As e-commerce platforms develop different business lines, a special but challenging categorization scenario emerges, where there are multiple domain-specific category taxonomies and each of them evolves dynamically over time. 
 
 In order to unify the categorization process and jointly utilize the cross-domain data, we propose a two-stage taxonomy-agnostic framework that relies solely on calculating the semantic relatedness between product titles and category names in the vector space. 
 
