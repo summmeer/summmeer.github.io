@@ -12,10 +12,10 @@ main:
     weight: 50
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 90
   - name: Projects
     url: 'project/'
-    weight: 60
+    weight: 40
   - name: Blog
     url: 'post/'
     weight: 70

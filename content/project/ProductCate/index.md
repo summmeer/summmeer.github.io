@@ -36,6 +36,6 @@ Product categorization is to assign a product with a suitable category, which is
 
 In order to unify the categorization process and jointly utilize the cross-domain data, we propose a two-stage taxonomy-agnostic framework that relies solely on calculating the semantic relatedness between product titles and category names in the vector space. 
 
-However, pure vector matching may fall for the surface form of text, and we thus further leverage the universal “knowledge” across different business domains to complement textual semantics. We design a heuristic retrieval strategy and pretrain a contrastive ranking model with the help of “concept”, which resembles the shared keyword knowledge cross domains. 
+However, pure vector matching may fall for the surface form of text, and we thus further leverage the universal "knowledge" across different business domains to complement textual semantics. We design a heuristic retrieval strategy and pretrain a contrastive ranking model with the help of "concept", which resembles the shared keyword knowledge cross domains. 
 
 Our comprehensive experiments show that our method outperforms existing sophisticated approaches quantitatively and efficiently on dynamical multi-domain taxonomies.
