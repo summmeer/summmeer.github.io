@@ -1,118 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Sansa's Site</title><link>https://summmeer.github.io/post/</link><atom:link href="https://summmeer.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://summmeer.github.io/media/icon_hu4465e7aec766cd42246149649a25868d_28750_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://summmeer.github.io/post/</link></image><item><title>Survey list of diffusion models</title><link>https://summmeer.github.io/post/getting-started/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/post/getting-started/</guid><description>&lt;h3 id="classical-model-unconditional">Classical model (unconditional)&lt;/h3>
-&lt;ol>
-&lt;li>Diffusion original&lt;/li>
-&lt;/ol>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Sansa's Site</title><link>https://summmeer.github.io/post/</link><atom:link href="https://summmeer.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://summmeer.github.io/media/icon_hu4465e7aec766cd42246149649a25868d_28750_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://summmeer.github.io/post/</link></image><item><title>Survey list of diffusion models</title><link>https://summmeer.github.io/post/diffusion-notes/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://summmeer.github.io/post/diffusion-notes/</guid><description>&lt;h3 id="classical-model-unconditional">Classical model (unconditional)&lt;/h3>
+&lt;h4 id="1-diffusion-original">1. Diffusion original&lt;/h4>
 &lt;ul>
-&lt;li>Jascha Sohl-Dickstein et al. “Deep Unsupervised Learning using Nonequilibrium Thermodynamics.” ICML 2015.&lt;/li>
+&lt;li>Jascha Sohl-Dickstein et al. &lt;em>Deep Unsupervised Learning using Nonequilibrium Thermodynamics.&lt;/em> ICML 2015.&lt;/li>
 &lt;/ul>
-&lt;ol start="2">
-&lt;li>NCSN and NCSNv2 (noise-conditioned score network)
-Score-based generative modeling + Langevin dynamics&lt;/li>
-&lt;/ol>
+&lt;h4 id="2-ncsn-and-ncsnv2-noise-conditioned-score-network">2. NCSN and NCSNv2 (noise-conditioned score network)&lt;/h4>
+&lt;p>Score-based generative modeling + Langevin dynamics&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>Yang Song &amp;amp; Stefano Ermon. “Generative modeling by estimating gradients of the data distribution.” NeurIPS 2019.&lt;/p>
+&lt;p>Yang Song &amp;amp; Stefano Ermon. &lt;em>Generative modeling by estimating gradients of the data distribution.&lt;/em> NeurIPS 2019.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yang Song &amp;amp; Stefano Ermon. “Improved techniques for training score-based generative models.” NeurIPS 2020. (for higher resolution)&lt;/p>
+&lt;p>Yang Song &amp;amp; Stefano Ermon. &lt;em>Improved techniques for training score-based generative models.&lt;/em> NeurIPS 2020. (for higher resolution)&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;ol start="3">
-&lt;li>DDPM&lt;/li>
-&lt;/ol>
+&lt;h4 id="3-ddpm">3. DDPM&lt;/h4>
 &lt;ul>
 &lt;li>
-&lt;p>Jonathan Ho et al. “Denoising diffusion probabilistic models.” NeurlPS 2020.&lt;/p>
+&lt;p>Jonathan Ho et al. &lt;em>Denoising diffusion probabilistic models.&lt;/em> NeurlPS 2020.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Alex Nichol &amp;amp; Prafulla Dhariwal. “ Improved denoising diffusion probabilistic models” ICML 2021. (ImageNet)&lt;/p>
+&lt;p>Alex Nichol &amp;amp; Prafulla Dhariwal. &lt;em>Improved denoising diffusion probabilistic models ICML 2021.&lt;/em> (ImageNet)&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;ol start="4">
-&lt;li>DDIM non- Markov chain to speed up&lt;/li>
-&lt;/ol>
+&lt;h4 id="4-ddim-non--markov-chain-to-speed-up">4. DDIM non- Markov chain to speed up&lt;/h4>
 &lt;ul>
-&lt;li>Jiaming Song et al. “Denoising diffusion implicit models.” ICLR 2021.&lt;/li>
+&lt;li>Jiaming Song et al. &lt;em>Denoising diffusion implicit models.&lt;/em> ICLR 2021.&lt;/li>
 &lt;/ul>
 &lt;h3 id="domain">Domain&lt;/h3>
-&lt;ol>
-&lt;li>Image&lt;/li>
-&lt;/ol>
+&lt;h4 id="1-image">1. Image&lt;/h4>
 &lt;ul>
-&lt;li>Prafula Dhariwal &amp;amp; Alex Nichol. &amp;ldquo;Diffusion Models Beat GANs on Image Synthesis.&amp;rdquo; NeurIPS 2021.&lt;/li>
+&lt;li>Prafula Dhariwal &amp;amp; Alex Nichol. &lt;em>Diffusion Models Beat GANs on Image Synthesis.&lt;/em> NeurIPS 2021.&lt;/li>
 &lt;/ul>
-&lt;ol start="2">
-&lt;li>Time series&lt;/li>
-&lt;/ol>
+&lt;h4 id="2-time-series">2. Time series&lt;/h4>
 &lt;ul>
-&lt;li>Yang Song, CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS, 2021&lt;/li>
+&lt;li>Yang Song, &lt;em>CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation&lt;/em>, NeurIPS 2021&lt;/li>
 &lt;/ul>
-&lt;ol start="3">
-&lt;li>Text&lt;/li>
-&lt;/ol>
+&lt;h4 id="3-text">3. Text&lt;/h4>
 &lt;ul>
 &lt;li>
-&lt;p>Nikolay Savinov, Aaron van den Oord. &amp;ldquo;Step-unrolled Denoising Autoencoders for Text Generation.&amp;rdquo; ICLR 2022. [SUNDAE code non-official] (baseline: Disco, CMLM)&lt;/p>
+&lt;p>Nikolay Savinov, Aaron van den Oord. &lt;em>Step-unrolled Denoising Autoencoders for Text Generation.&lt;/em> ICLR 2022. [SUNDAE &lt;a href="https://github.com/vvvm23/sundae" target="_blank" rel="noopener">code non-official&lt;/a>] (baseline: Disco, CMLM)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Emiel Hoogeboom Max Welling. &amp;ldquo;Argmax flows and multinomial diffusion: Towards non-autoregressive language models.&amp;rdquo; NeurIPS 2021. [code1, code2] (image+text)&lt;/p>
+&lt;p>Emiel Hoogeboom Max Welling. &lt;em>Argmax flows and multinomial diffusion: Towards non-autoregressive language models.&lt;/em> NeurIPS 2021. [&lt;a href="https://github.com/ehoogeboom/multinomial_diffusion" target="_blank" rel="noopener">code&lt;/a>] (image+text)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jacob Austin, Rianne van den Berg. &amp;ldquo;Structured denoising diffusion models in discrete state-spaces.&amp;rdquo; NeurIPS 2021. [D3PM code] (image+text)&lt;/p>
+&lt;p>Jacob Austin, Rianne van den Berg. &lt;em>Structured denoising diffusion models in discrete state-spaces.&lt;/em> NeurIPS 2021. (image+text)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>AUTOREGRESSIVE DIFFUSION MODELS. ICLR 2022&lt;/p>
+&lt;p>&lt;em>AUTOREGRESSIVE DIFFUSION MODELS.&lt;/em> ICLR 2022 [&lt;a href="https://github.com/heejkoo/Awesome-Diffusion-Models" target="_blank" rel="noopener">code&lt;/a>]&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Diffusion-LM Improves Controllable Text Generation&lt;/p>
+&lt;p>Lisa Xiang, &lt;em>Diffusion-LM Improves Controllable Text Generation&lt;/em>, NeurIPS 2022. [&lt;a href="https://github.com/XiangLi1999/Diffusion-LM" target="_blank" rel="noopener">code&lt;/a>]&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;ol start="4">
-&lt;li>Speech&lt;/li>
-&lt;/ol>
+&lt;h4 id="4-speech">4. Speech&lt;/h4>
 &lt;ul>
 &lt;li>
-&lt;p>Gautam Mittal, Ian Simon. &amp;ldquo;Symbolic music generation with diffusion models.&amp;rdquo; ISMIR 2021. (SMG)&lt;/p>
+&lt;p>Gautam Mittal, Ian Simon. &lt;em>Symbolic music generation with diffusion models.&lt;/em> ISMIR 2021. (SMG)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis&lt;/p>
+&lt;p>&lt;em>FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>WaveGrad: Estimating Gradients for Waveform Generation. ICLR 2021&lt;/p>
+&lt;p>&lt;em>WaveGrad: Estimating Gradients for Waveform Generation.&lt;/em> ICLR 2021&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;ol start="5">
-&lt;li>text2img&lt;/li>
-&lt;/ol>
+&lt;h4 id="5-text-to-image">5. Text-to-Image&lt;/h4>
 &lt;ul>
 &lt;li>
-&lt;p>Chitwan Saharia. &amp;ldquo;Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding&amp;rdquo;. [non-official code]&lt;/p>
+&lt;p>Chitwan Saharia. &lt;em>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding.&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Ramesh, Mark Chen. &amp;ldquo;Hierarchical Text-Conditional Image Generation with CLIP Latents&amp;rdquo;.&lt;/p>
+&lt;p>Aditya Ramesh, Mark Chen. &lt;em>Hierarchical Text-Conditional Image Generation with CLIP Latents.&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>KNN-Diffusion: Image Generation via Large-Scale Retrieval&lt;/p>
+&lt;p>&lt;em>KNN-Diffusion: Image Generation via Large-Scale Retrieval&lt;/em>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="compare-text-generation">Compare Text Generation&lt;/h3>
-&lt;ol>
-&lt;li>AR vs NAR:&lt;/li>
-&lt;/ol>
+&lt;h4 id="1-ar-vs-nar">1. AR vs NAR:&lt;/h4>
 &lt;ul>
 &lt;li>ARDM uses order-agnostic AR (parallelized)
 NAR: multinomial diffusion, D3PM, SUNDAE, SMG, Diffusion-LM&lt;/li>
 &lt;/ul>
-&lt;ol start="2">
-&lt;li>Continuous vs discrete:&lt;/li>
-&lt;/ol>
+&lt;h4 id="2-continuous-vs-discrete">2. Continuous vs discrete:&lt;/h4>
 &lt;ul>
 &lt;li>ARDM, D3PM, SUNDAE is discrete (clear transition)
 Diffusion-LM is continuous, SMG first uses VAE to encode&lt;/li>
 &lt;/ul>
-&lt;ol start="3">
-&lt;li>Controllable:&lt;/li>
-&lt;/ol>
+&lt;h4 id="3-controllable">3. Controllable:&lt;/h4>
 &lt;ul>
 &lt;li>Diffusion-LM uses plug and play&lt;/li>
 &lt;li>WaveGrad uses condition with diffusion model&lt;/li>
