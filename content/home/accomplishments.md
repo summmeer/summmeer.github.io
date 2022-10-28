@@ -26,6 +26,14 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
+    date_start: '2022-03-30'
+    description: Graduation with honor, university graduate excellence award of Shanghai
+    organization: Shanghai
+    organization_url: ''
+    title: Shanghai Outstanding Graduation
+    url: ''
+  - certificate_url: ''
+    date_end: ''
     date_start: '2020-11-25'
     description: 'EEG signal analysis and discriminant model for rehabilitation engineering'
     organization: Huawei Cup
