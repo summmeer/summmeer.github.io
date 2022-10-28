@@ -1,6 +1,6 @@
 ---
 title: Shansan Gong (Sansa)
-role: NLP learner and researcher
+role: NLP researcher
 avatar_filename: "avatar.jpg"
 bio: Research interests include text generation, diffusion models, recommendation systems.
 interests:
