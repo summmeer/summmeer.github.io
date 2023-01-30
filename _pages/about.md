@@ -27,6 +27,9 @@ I'm willing to explore different kinds of generation paradigms and keep the eye 
 ➡️ Download my [Resumé](./uploads/resume.pdf)
 
 
+> "I can only show you the door, you're the one that has to walk through it" -- Morpheus (The Matrix)
+
+
 {% include_relative includes/pubs.md %}
 
 {% include_relative includes/honors.md %}
@@ -40,3 +43,6 @@ I'm willing to explore different kinds of generation paradigms and keep the eye 
 - *2021.12 - 2022.03*, RE, Product Categorization, [Meituan]() <img src='./images/meituan.svg' style='width: 1em;'>, Shanghai.
 - *2021.06 - 2021.10*, SDE, Bing Search Optimization, [Microsoft STCA]() <img src='./images/Microsoft.svg' style='width: 1em;'>, Beijing.
 - *2019.12 - 2022.03*, CTO, iWenBooks APP Development, [Yousheng Tech Inc]() <img src='./images/iwen.svg' style='width: 1em;'>, Shanghai.
+
+
+> All those moments will be lost in time, like tears in rain. -- Blade Runner

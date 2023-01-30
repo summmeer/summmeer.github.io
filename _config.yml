@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sansa Gong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai AI Lab"
+  bio              : "Shark-NLP"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

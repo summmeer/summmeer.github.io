@@ -7,7 +7,7 @@
 
 **Shansan Gong**, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong
 
-[**Project**](https://github.com/Shark-NLP/DiffuSeq) | [DiffuSeq ![](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq?style=social)](https://github.com/Shark-NLP/DiffuSeq) | <strong><span class='show_paper_citations' data='F86VNoMAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Project**](https://github.com/Shark-NLP/DiffuSeq) | [DiffuSeq ![](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq?style=social)](https://github.com/Shark-NLP/DiffuSeq) <strong><span class='show_paper_citations' data='F86VNoMAAAAJ:2osOgNQ5qMEC'></span></strong>
 - Our proposed **DiffuSeq** is trained end-to-end in a classifier-free manner, targeting Seq2Seq tasks.
 <!-- - We establish a theoretical connection among AR, NAR and DiffuSeq models (refer to our original paper). -->
 - DiffuSeq is a powerful model for text generation, matching or even surpassing competitive AR, iterative NAR, and PLMs on quality and diversity.
