@@ -9,7 +9,7 @@
 title                    : "Sansa's"
 description              : "NLP Researcher, focusing on CTG & PLMs"
 repository               : "summmeer/summmeer.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=F86VNoMAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=F86VNoMAAAAJ"
   email            : "hisansas@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "shansan-gong-457361264"
   dblp             : "https://dblp.org/pid/320/4745.html"
   orcid            : "https://orcid.org/0000-0001-5028-2323"
   pinterest        :
