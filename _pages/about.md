@@ -34,6 +34,8 @@ I'm willing to explore different kinds of generation paradigms and keep the eye 
 
 {% include_relative includes/honors.md %}
 
+{% include_relative includes/talks.md %}
+
 
 # 📖 Educations
 - *2019.06 - 2022.03*, Master, Computer Science, SEIEE, Shanghai Jiao Tong University. 

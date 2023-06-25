@@ -1,3 +1,2 @@
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.05*, Incorporate Diffusion Models into Conditional Text Generation, Global Lunch Seminar at SJTU CS department.  \| [\[Slides\]](./uploads/diffusion_SJTU_talk)
