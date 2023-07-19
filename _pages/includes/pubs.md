@@ -1,4 +1,5 @@
 # 📚 Publications 
+\* indicates equal contribution
 
 ## Preprint
 
@@ -13,10 +14,23 @@
 
 **Shansan Gong**, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong
 
-[**Project**](https://github.com/Shark-NLP/DiffuSeq) | [DiffuSeq ![](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq?style=social)](https://github.com/Shark-NLP/DiffuSeq) <strong><span class='show_paper_citations' data='F86VNoMAAAAJ:2osOgNQ5qMEC'></span></strong>
+Code: [DiffuSeq ![](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq?style=social)](https://github.com/Shark-NLP/DiffuSeq) <strong><span class='show_paper_citations' data='F86VNoMAAAAJ:2osOgNQ5qMEC'></span></strong>  | [Poster](./uploads/DiffuSeq_poster-v1.pdf)
 - Our proposed **DiffuSeq** is trained end-to-end in a classifier-free manner, targeting Seq2Seq tasks.
 <!-- - We establish a theoretical connection among AR, NAR and DiffuSeq models (refer to our original paper). -->
 - DiffuSeq is a powerful model for text generation, matching or even surpassing competitive AR, iterative NAR, and PLMs on quality and diversity.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 (Industry)</div><img src='images/acl23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transferable and Efficient: Unifying Dynamic Multi-Domain Product Categorization](https://aclanthology.org/2023.acl-industry.46/)
+
+**Shansan Gong**\*, Zelin Zhou\*, Shuo Wang, Fengjiao Chen, Xiujie Song, Xuezhi Cao, Yunsen Xian, Kenny Zhu
+
+[Data](https://github.com/ze-lin/TaLR) | [Poster](./uploads/TaLR-poster.pdf)
+- We propose a two-stage taxonomy-agnostic framework to tackle dynamic multi-domain product categorization problem.
+- Related e-commerce datasets are released.
 </div>
 </div>
 
@@ -27,7 +41,7 @@
 
 **Shansan Gong**, Kenny Q. Zhu
 
-[**Project**](https://github.com/summmeer/session-based-news-recommendation) | [TCAR ![](https://img.shields.io/github/stars/summmeer/session-based-news-recommendation?style=social)](https://github.com/summmeer/session-based-news-recommendation) | [Slides](./uploads/SIGIR22-fp1153-slides.pdf)
+Code: [TCAR ![](https://img.shields.io/github/stars/summmeer/session-based-news-recommendation?style=social)](https://github.com/summmeer/session-based-news-recommendation) | [Slides](./uploads/SIGIR22-fp1153-slides.pdf)
 - By leveraging different kinds of implicit feedback, we alleviate the trade-off between the precision and diversity.
 - We tackle user/article cold-start problem to some extend, which is effective for real-world application.
 

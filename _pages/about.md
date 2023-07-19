@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab as a NLP researcher now, supervised by [Lingpeng Kong](https://ikekonglp.github.io/). My current research interests including controllable text generation and large pretrain language models. 
+<!-- I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab as a NLP researcher now, supervised by [Lingpeng Kong](https://ikekonglp.github.io/). -->
+My current research interests including controllable text generation and large pretrain language models. 
 
 Previouly, I graduated from Shanghai Jiao Tong University (SJTU) with a Bachelor's degree in Information Engineering in 2019 and a Master's degree in Computing Science in 2022, supervised by [Kenny Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). I used to work at pose estimation, face recognition, hierarchical text classification and recommendation systems.
 

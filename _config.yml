@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sansa Gong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shark-NLP"
+  bio              : "PhD Candidate"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shansan-gong-457361264"
+  linkedin         :
   dblp             : "https://dblp.org/pid/320/4745.html"
   orcid            : "https://orcid.org/0000-0001-5028-2323"
   pinterest        :
