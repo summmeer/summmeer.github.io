@@ -22,9 +22,8 @@ Code: [DiffuSeq ![](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq?style
 </div>
 
 
-[Transferable and Efficient: Unifying Dynamic Multi-Domain Product Categorization](https://aclanthology.org/2023.acl-industry.46/) \| [Data](https://github.com/ze-lin/TaLR) \| [Poster](./uploads/TaLR-poster.pdf)
-
-**Shansan Gong**\*, Zelin Zhou\*, Shuo Wang, Fengjiao Chen, Xiujie Song, Xuezhi Cao, Yunsen Xian, Kenny Zhu 
+- [Transferable and Efficient: Unifying Dynamic Multi-Domain Product Categorization](https://aclanthology.org/2023.acl-industry.46/) \| [Data](https://github.com/ze-lin/TaLR) \| [Poster](./uploads/TaLR-poster.pdf)
+**Shansan Gong**\*, Zelin Zhou\*, Shuo Wang, Fengjiao Chen, Xiujie Song, Xuezhi Cao, Yunsen Xian, Kenny Zhu, ACL 2023 Industry 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/sigir22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
