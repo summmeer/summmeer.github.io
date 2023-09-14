@@ -3,7 +3,10 @@
 
 ## Preprint
 
-[In-Context Learning with Many Demonstration Examples](https://arxiv.org/pdf/2302.04931.pdf), Mukai Li, **Shansan Gong**, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu, Lingpeng Kong, [EVALM ![](https://img.shields.io/github/stars/Shark-NLP/EVALM?style=social)](https://github.com/Shark-NLP/EVALM)
+- [L-Eval: Instituting Standardized Evaluation for Long Context Language Models](https://arxiv.org/pdf/2307.11088.pdf), Chenxin An, **Shansan Gong**, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu, [L-Eval ![](https://img.shields.io/github/stars/OpenLMLab/LEval?style=social)](https://github.com/OpenLMLab/LEval)
+
+- [In-Context Learning with Many Demonstration Examples](https://arxiv.org/pdf/2302.04931.pdf), Mukai Li, **Shansan Gong**, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu, Lingpeng Kong, [EVALM ![](https://img.shields.io/github/stars/Shark-NLP/EVALM?style=social)](https://github.com/Shark-NLP/EVALM)
+
 
 ## Published
 
