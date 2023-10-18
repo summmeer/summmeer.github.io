@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sansa's"
-description              : "NLP Researcher, focusing on CTG & PLMs"
+description              : "NLP Researcher, focusing on CTG & LLMs"
 repository               : "summmeer/summmeer.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Sansa Gong"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD Candidate"
-  location         : "Shanghai, China"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F86VNoMAAAAJ"
