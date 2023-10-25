@@ -52,8 +52,8 @@ I'm willing to explore different kinds of generation paradigms and keep the eye 
 
 > All those moments will be lost in time, like tears in rain. -- Blade Runner
 
-<!-- <table style="width:20%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:20%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0071ad&w=300&t=m&d=9m0ZS4AxwFSdh8NyeNwF9tYWp7ej9AlJ2-V9PRqw5XA&co=ffffff&cmo=3fef2d&cmn=f77a24&ct=989898'></script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=348ecb&w=200&t=tt&d=9m0ZS4AxwFSdh8NyeNwF9tYWp7ej9AlJ2-V9PRqw5XA&co=ffffff&cmo=ffb732&cmn=fc4b4b&ct=000000'></script>
 </tr>
-</tbody></table> -->
+</tbody></table>
