@@ -19,13 +19,11 @@ redirect_from:
 
 
 I am a PhD candidate at HKU, supervised by [Lingpeng Kong](https://ikekonglp.github.io/).
-My current research interests including controllable text generation and large pretrain language models. 
+My current research interests including diffusion language models and long context language models. I'm trying to explore different kinds of generation paradigms and care about the diversity & efficiency. My ultimate goal is to narrow the language barrier between humans and machines by creating a more **controllable, personalized and supportive** natural language system. <a href='https://scholar.google.com/citations?user=F86VNoMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Previouly, I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab as a NLP researcher. I graduated from Shanghai Jiao Tong University (SJTU), supervised by [Kenny Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). I used to work at pose estimation, face recognition, hierarchical text classification and recommendation systems.
 
-I'm willing to explore different kinds of generation paradigms and keep the eye on long sequence modeling. My ultimate goal is to narrow the language barrier between humans and machines by creating a more **controllable, personalized and supportive** natural language system. <a href='https://scholar.google.com/citations?user=F86VNoMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-➡️ Download my [Resumé](./uploads/resume.pdf)
+➡️ Download my [Resumé](./uploads/resume.pdf) (update in Dec 2023)
 
 
 > "I can only show you the door, you're the one that has to walk through it" -- Morpheus (The Matrix)
