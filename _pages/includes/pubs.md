@@ -1,9 +1,25 @@
 # 📚 Publications 
-\* indicates equal contribution. (Update in May 2024)
+\* indicates equal contribution. (Update in Nov 2024)
 
 ## Diffusion for text
 
-[Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/pdf/2402.07754) (Preprint)
+[Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (Preprint)
+
+**Shansan Gong**\*, Shivam Agarwal\*, Yizhe Zhang, Jiacheng Ye, Lin Zheng, Mukai Li, Chenxin An, Peilin Zhao, Wei Bi, Jiawei Han, Hao Peng, Lingpeng Kong
+
+[DiffuLLaMA ![](https://img.shields.io/github/stars/HKUNLP/DiffuLLaMA?style=social)](https://github.com/HKUNLP/DiffuLLaMA) \| We convert AR models ranging from 127M to 7B parameters (GPT2 and LLaMA) into diffusion models DiffuGPT and DiffuLLaMA.
+
+---
+
+[Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/abs/2410.14157) (Preprint)
+
+Jiacheng Ye, Jiahui Gao, **Shansan Gong**, Lin Zheng, Xin Jiang, Zhenguo Li, Lingpeng Kong
+
+[Code ![](https://img.shields.io/github/stars/HKUNLP/diffusion-vs-ar?style=social)](https://github.com/HKUNLP/diffusion-vs-ar) \| We demonstrate how discrete diffusion models effectively learn difficult subgoals that elude autoregressive models.
+
+---
+
+[Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/pdf/2402.07754) (NeurIPS 2024)
 
 Jiacheng Ye\*, **Shansan Gong**\*, Liheng Chen\*, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Zhenguo Li, Wei Bi, Lingpeng Kong
 
@@ -40,7 +56,15 @@ DiffuSeq is a powerful model for text generation, matching or even surpassing co
 
 ## Long context language models
 
-[L-Eval: Instituting Standardized Evaluation for Long Context Language Models](https://arxiv.org/pdf/2307.11088.pdf) (ACL 2024)
+[Why Does the Effective Context Length of LLMs Fall Short?](https://arxiv.org/abs/2410.18745) (Preprint)
+
+Chenxin An, Jun Zhang, Ming Zhong, Lei Li, **Shansan Gong**, Yao Luo, Jingjing Xu, Lingpeng Kong
+
+[STRING ![](https://img.shields.io/github/stars/HKUNLP/STRING?style=social)](https://github.com/HKUNLP/STRING) \| A  training-free method after analyzing the effective context length of LLMs.
+
+---
+
+[L-Eval: Instituting Standardized Evaluation for Long Context Language Models](https://arxiv.org/pdf/2307.11088.pdf) (ACL 2024 <span style="color: red;">Outstanding</span>)
 
 Chenxin An, **Shansan Gong**, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu
 
