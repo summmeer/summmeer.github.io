@@ -1,17 +1,23 @@
 # 📚 Publications 
-\* indicates equal contribution. (Update in Nov 2024)
+\* indicates equal contribution. (Update in Feb 2025)
 
 ## Diffusion for text
 
-[Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (Preprint)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/diffullama-fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (ICLR 2025)
 
 **Shansan Gong**\*, Shivam Agarwal\*, Yizhe Zhang, Jiacheng Ye, Lin Zheng, Mukai Li, Chenxin An, Peilin Zhao, Wei Bi, Jiawei Han, Hao Peng, Lingpeng Kong
 
 [DiffuLLaMA ![](https://img.shields.io/github/stars/HKUNLP/DiffuLLaMA?style=social)](https://github.com/HKUNLP/DiffuLLaMA) \| We convert AR models ranging from 127M to 7B parameters (GPT2 and LLaMA) into diffusion models DiffuGPT and DiffuLLaMA.
 
+</div>
+</div>
+
 ---
 
-[Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/abs/2410.14157) (Preprint)
+[Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/abs/2410.14157) (ICLR 2025)
 
 Jiacheng Ye, Jiahui Gao, **Shansan Gong**, Lin Zheng, Xin Jiang, Zhenguo Li, Lingpeng Kong
 
@@ -56,7 +62,15 @@ DiffuSeq is a powerful model for text generation, matching or even surpassing co
 
 ## Long context language models
 
-[Why Does the Effective Context Length of LLMs Fall Short?](https://arxiv.org/abs/2410.18745) (Preprint)
+[GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models](https://arxiv.org/abs/2412.12735) (preprint)
+
+Mukai Li, Lei Li, **Shansan Gong**, Qi Liu
+
+[GIRAFFE](https://github.com/kiaia/GIRAFFE) \| Explore design choices to extend the context window of existing VLMs.
+
+---
+
+[Why Does the Effective Context Length of LLMs Fall Short?](https://arxiv.org/abs/2410.18745) (ICLR 2025)
 
 Chenxin An, Jun Zhang, Ming Zhong, Lei Li, **Shansan Gong**, Yao Luo, Jingjing Xu, Lingpeng Kong
 

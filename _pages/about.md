@@ -19,11 +19,13 @@ redirect_from:
 
 
 I am a PhD candidate at HKU, supervised by [Lingpeng Kong](https://ikekonglp.github.io/).
-My current research interests including diffusion language models and long context language models. I'm trying to explore different kinds of generation paradigms and care about the diversity & efficiency. My ultimate goal is to narrow the language barrier between humans and machines by creating a more **controllable, personalized and supportive** natural language system. <a href='https://scholar.google.com/citations?user=F86VNoMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My current research interests including diffusion language models and long context language models. I'm trying to explore different kinds of generation paradigms for better controllability and reasoning capacity. 
+<!-- My ultimate goal is to narrow the language barrier between humans and machines by creating a more **controllable, personalized and supportive** natural language system.  -->
+<a href='https://scholar.google.com/citations?user=F86VNoMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Previouly, I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab as a NLP researcher. I graduated from Shanghai Jiao Tong University (SJTU), supervised by [Kenny Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). I used to work at pose estimation, face recognition, hierarchical text classification and recommendation systems.
 
-➡️ Download my [Resumé](./uploads/resume.pdf) (update in Dec 2023)
+➡️ Download my [Resumé](./uploads/resume_Nov24.pdf) (update in Nov 2024)
 
 
 > "I can only show you the door, you're the one that has to walk through it" -- Morpheus (The Matrix)
@@ -40,13 +42,15 @@ Previouly, I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab a
 - *2019.06 - 2022.03*, Master, Computer Science, SEIEE, Shanghai Jiao Tong University. 
 - *2015.09 - 2019.06*, Undergraduate, Information Engineering, SEIEE, Shanghai Jiao Tong University. 
 
-# 💻 Experience
-- *2021.12 - 2022.03*, RE, Product Categorization, [Meituan]() <img src='./images/meituan.svg' style='width: 1em;'>, Shanghai.
-- *2021.06 - 2021.10*, SDE, Bing Search Optimization, [Microsoft STCA]() <img src='./images/Microsoft.svg' style='width: 1em;'>, Beijing.
+# 💻 Internship
+- *2023.11 - 2024.10*, Research Intern, Diffusion Text Generation, [Tencent AI Lab]() <img src='./images/ailab.svg' style='width: 1em;'>, Shenzhen.
+- *2021.12 - 2022.03*, RE Intern, Product Categorization, [Meituan]() <img src='./images/meituan.svg' style='width: 1em;'>, Shanghai.
+- *2021.06 - 2021.10*, SDE Intern, Bing Search Optimization, [Microsoft STCA]() <img src='./images/Microsoft.svg' style='width: 1em;'>, Beijing.
 - *2019.12 - 2022.03*, CTO, iWenBooks APP Development, [Yousheng Tech Inc]() <img src='./images/iwen.svg' style='width: 1em;'>, Shanghai.
 
 # 📌 Services
-- Conference Reviewer: COLING2022, ACL2023, NeurIPS2023, EMNLP2023, ICLR2024
+- Conference Reviewer: COLING2022, ACL2023, NeurIPS2023-, EMNLP2023, ICLR2024-, ARR2024-
+- Journal Reviewer: ACM Computing Surveys, IEEE Journals
 
 > All those moments will be lost in time, like tears in rain. -- Blade Runner
 
