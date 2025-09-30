@@ -1,7 +1,21 @@
-# 📚 Publications 
-\* indicates equal contribution. (Update in Feb 2025)
+# 📚 Selected Publications 
+\* indicates equal contribution. (Update in Sep 2025)
 
 ## Diffusion for text
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/diffucoder-fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639) (preprint)
+
+**Shansan Gong**, Ruixiang Zhang, Huangjie Zheng, Jiatao Gu, Navdeep Jaitly, Lingpeng Kong, Yizhe Zhang
+
+[DiffuCoder ![](https://img.shields.io/github/stars/apple/ml-diffucoder?style=social)](https://github.com/apple/ml-diffucoder) \| We introduce DiffuCoder (7B), show that higher temperature diversifies both token choices and generation order; and propose coupled-GRPO, a diffusion-native RL method that avoids semi-AR and improves performance.
+
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/diffullama-fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,19 +76,19 @@ DiffuSeq is a powerful model for text generation, matching or even surpassing co
 
 ## Long context language models
 
-[GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models](https://arxiv.org/abs/2412.12735) (preprint)
+[GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models](https://arxiv.org/abs/2412.12735) (ACL 2025)
 
 Mukai Li, Lei Li, **Shansan Gong**, Qi Liu
 
 [GIRAFFE](https://github.com/kiaia/GIRAFFE) \| Explore design choices to extend the context window of existing VLMs.
 
----
+<!-- --- -->
 
-[Why Does the Effective Context Length of LLMs Fall Short?](https://arxiv.org/abs/2410.18745) (ICLR 2025)
+<!-- [Why Does the Effective Context Length of LLMs Fall Short?](https://arxiv.org/abs/2410.18745) (ICLR 2025)
 
 Chenxin An, Jun Zhang, Ming Zhong, Lei Li, **Shansan Gong**, Yao Luo, Jingjing Xu, Lingpeng Kong
 
-[STRING ![](https://img.shields.io/github/stars/HKUNLP/STRING?style=social)](https://github.com/HKUNLP/STRING) \| A  training-free method after analyzing the effective context length of LLMs.
+[STRING ![](https://img.shields.io/github/stars/HKUNLP/STRING?style=social)](https://github.com/HKUNLP/STRING) \| A  training-free method after analyzing the effective context length of LLMs. -->
 
 ---
 
@@ -100,7 +114,7 @@ Mukai Li, **Shansan Gong**, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu, Lin
 
 [EVALM](https://github.com/Shark-NLP/EVALM) \| The pre-trained language model with efficient attention and 8k context length.
 
----
+<!-- ---
 
 ## LLMs
 
@@ -108,17 +122,17 @@ Mukai Li, **Shansan Gong**, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu, Lin
 
 Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, **Shansan Gong**, Lemao Liu, Wei Bi, Lingpeng Kong
 
-BBA is designed to maximize the potential of DSL in augmenting complex multi-modal reasoning tasks.
+BBA is designed to maximize the potential of DSL in augmenting complex multi-modal reasoning tasks. -->
 
 ---
 
 ## Before LLMs
 
-[Transferable and Efficient: Unifying Dynamic Multi-Domain Product Categorization](https://aclanthology.org/2023.acl-industry.46/) (ACL 2023 Industry)
+<!-- [Transferable and Efficient: Unifying Dynamic Multi-Domain Product Categorization](https://aclanthology.org/2023.acl-industry.46/) (ACL 2023 Industry)
 
 **Shansan Gong**\*, Zelin Zhou\*, Shuo Wang, Fengjiao Chen, Xiujie Song, Xuezhi Cao, Yunsen Xian, Kenny Zhu
 
-[Data](https://github.com/ze-lin/TaLR) \| [Poster](./uploads/TaLR-poster.pdf) \| A new framework to unify the categorization process as well as leverage knowledge from different domains.
+[Data](https://github.com/ze-lin/TaLR) \| [Poster](./uploads/TaLR-poster.pdf) \| A new framework to unify the categorization process as well as leverage knowledge from different domains. -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/sigir22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -25,7 +25,7 @@ My current research interests including diffusion language models and long conte
 
 Previouly, I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab as a NLP researcher. I graduated from Shanghai Jiao Tong University (SJTU), supervised by [Kenny Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). I used to work at pose estimation, face recognition, hierarchical text classification and recommendation systems.
 
-➡️ Download my [Resumé](./uploads/resume_Nov24.pdf) (update in Nov 2024)
+➡️ See my [Resumé](./uploads/resume_Sep25.pdf) (update in Sep 2025)
 
 
 > "I can only show you the door, you're the one that has to walk through it" -- Morpheus (The Matrix)
@@ -43,6 +43,7 @@ Previouly, I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab a
 - *2015.09 - 2019.06*, Undergraduate, Information Engineering, SEIEE, Shanghai Jiao Tong University. 
 
 # 💻 Internship
+- *2025.01 - 2025.08*, Research Intern, Diffusion Text Generation, [Apple MLR]() <img src='./images/apple.svg' style='width: 1em;'>, Seattle.
 - *2023.11 - 2024.10*, Research Intern, Diffusion Text Generation, [Tencent AI Lab]() <img src='./images/ailab.svg' style='width: 1em;'>, Shenzhen.
 - *2021.12 - 2022.03*, RE Intern, Product Categorization, [Meituan]() <img src='./images/meituan.svg' style='width: 1em;'>, Shanghai.
 - *2021.06 - 2021.10*, SDE Intern, Bing Search Optimization, [Microsoft STCA]() <img src='./images/Microsoft.svg' style='width: 1em;'>, Beijing.
@@ -51,6 +52,8 @@ Previouly, I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab a
 # 📌 Services
 - Conference Reviewer: COLING2022, ACL2023, NeurIPS2023-, EMNLP2023, ICLR2024-, ARR2024-
 - Journal Reviewer: ACM Computing Surveys, IEEE Journals
+- TA at HKU: COMP2121 (Discrete math), COMP7104 (Advanced database systems)
+- One of the hosts of [HKU Seminar](https://x.com/hkunlp2020)
 
 > All those moments will be lost in time, like tears in rain. -- Blade Runner
 
