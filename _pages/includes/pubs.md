@@ -17,6 +17,14 @@
 
 ---
 
+[Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2510.01329) (preprint)
+
+Huangjie Zheng, **Shansan Gong**, Ruixiang Zhang, Tianrong Chen, Jiatao Gu, Mingyuan Zhou, Navdeep Jaitly, Yizhe Zhang
+
+We propose CADD, a framework that augments the discrete state space with a paired diffusion in a continuous latent space.
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/diffullama-fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
