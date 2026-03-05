@@ -1,3 +1,8 @@
 # 💬 Invited Talks
-- *2023.06*, DiffuSeq, Youth PhD Talk-ICLR 2023 by AI Time. \| [\[Slides\]](./uploads/DiffuSeq-ICLR-talk.pdf)
-- *2023.05*, Incorporate Diffusion Models into Conditional Text Generation, Global Lunch Seminar at SJTU CS department. \| [\[Slides\]](./uploads/diffusion_SJTU_talk.pdf)
+
+- *2025.12*, "DiffuCoder," Discrete Diffusion Reading Group ([d-llms.com](https://d-llms.com/)).
+- *2025.11*, "Diffusion Language Models: From Fundamentals to Better Coding with RL," Jia Li's Group, Tsinghua University.
+- *2025.06*, "Introducing Diffusion Large Language Models (dLLMs): DiffuLLaMA and DiffuCoder," Google Efficiency Research.
+- *2025.06*, "The Journey of Text Diffusion Models," Noah's Group, UW NLP.
+- *2023.06*, "DiffuSeq," Youth PhD Talk ICLR 2023 AI Time.
+- *2023.05*, "Incorporate Diffusion Models into Conditional Text Generation," Global Lunch Seminar, SJTU CS Department.

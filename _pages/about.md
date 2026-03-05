@@ -23,9 +23,7 @@ My current research interests including diffusion language models and long conte
 <!-- My ultimate goal is to narrow the language barrier between humans and machines by creating a more **controllable, personalized and supportive** natural language system.  -->
 <a href='https://scholar.google.com/citations?user=F86VNoMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Previouly, I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab as a NLP researcher. I graduated from Shanghai Jiao Tong University (SJTU), supervised by [Kenny Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). I used to work at pose estimation, face recognition, hierarchical text classification and recommendation systems.
-
-➡️ See my [Resumé](./uploads/resume_Sep25.pdf) (update in Sep 2025)
+I graduated from Shanghai Jiao Tong University (SJTU), supervised by [Kenny Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). I used to work at pose estimation, face recognition, hierarchical text classification and recommendation systems. ➡️ My [CV](./uploads/cv.pdf) (update in Jan 2026)
 
 
 > "I can only show you the door, you're the one that has to walk through it" -- Morpheus (The Matrix)
@@ -51,7 +49,7 @@ Previouly, I work at [Shark-NLP](https://github.com/Shark-NLP) Shanghai AI Lab a
 
 # 📌 Services
 - Conference Reviewer: COLING2022, ACL2023, NeurIPS2023-, EMNLP2023, ICLR2024-, ARR2024-
-- Journal Reviewer: ACM Computing Surveys, IEEE Journals
+- Journal Reviewer: ACM Computing Surveys, IEEE Journals, TPAMI
 - TA at HKU: COMP2121 (Discrete math), COMP7104 (Advanced database systems)
 - One of the hosts of [HKU Seminar](https://x.com/hkunlp2020)
 

@@ -1,12 +1,30 @@
 # 📚 Selected Publications 
-\* indicates equal contribution. (Update in Sep 2025)
+\* indicates equal contribution.
 
-## Diffusion for text
+*This page highlights my work on diffusion language models. For a complete list of publications, please refer to my CV.*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/diffucoder-fig.png' alt="sym" width="100%"></div></div>
+## Large Scale Diffusion LMs
+
+[Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone](https://arxiv.org/abs/2512.22615) (technical report)
+
+Jiacheng Ye\*, **Shansan Gong**\*, Jiahui Gao, Junming Fan, Shuang Wu, Wei Bi, Haoli Bai, Lifeng Shang, Lingpeng Kong
+
+The open VL and VLA models that fully unlock discrete diffusion's advantages in long-horizon planning and parallel action generation for multimodal tasks.
+
+---
+
+[DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-size Canvas](https://arxiv.org/abs/2602.01326) (ICLR 2026)
+
+Zirui Wu, Lin Zheng, Zhihui Xie, Jiacheng Ye, Jiahui Gao, **Shansan Gong**, Yansong Feng, Zhenguo Li, Wei Bi, Guorui Zhou, Lingpeng Kong
+
+A novel diffusion framework that enables dynamic, variable-length generation.
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/diffucoder-fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639) (preprint)
+[DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639) (ICLR 2026)
 
 **Shansan Gong**, Ruixiang Zhang, Huangjie Zheng, Jiatao Gu, Navdeep Jaitly, Lingpeng Kong, Yizhe Zhang
 
@@ -17,7 +35,7 @@
 
 ---
 
-[Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2510.01329) (preprint)
+[Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2510.01329) (ICLR 2026)
 
 Huangjie Zheng, **Shansan Gong**, Ruixiang Zhang, Tianrong Chen, Jiatao Gu, Mingyuan Zhou, Navdeep Jaitly, Yizhe Zhang
 
@@ -38,6 +56,8 @@ We propose CADD, a framework that augments the discrete state space with a paire
 </div>
 
 ---
+
+## Initial Exploration for Text Diffusion
 
 [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/abs/2410.14157) (ICLR 2025)
 
@@ -80,7 +100,7 @@ DiffuSeq is a powerful model for text generation, matching or even surpassing co
 </div>
 </div>
 
----
+<!-- ---
 
 ## Long context language models
 
@@ -88,7 +108,7 @@ DiffuSeq is a powerful model for text generation, matching or even surpassing co
 
 Mukai Li, Lei Li, **Shansan Gong**, Qi Liu
 
-[GIRAFFE](https://github.com/kiaia/GIRAFFE) \| Explore design choices to extend the context window of existing VLMs.
+[GIRAFFE](https://github.com/kiaia/GIRAFFE) \| Explore design choices to extend the context window of existing VLMs. -->
 
 <!-- --- -->
 
@@ -98,7 +118,7 @@ Chenxin An, Jun Zhang, Ming Zhong, Lei Li, **Shansan Gong**, Yao Luo, Jingjing X
 
 [STRING ![](https://img.shields.io/github/stars/HKUNLP/STRING?style=social)](https://github.com/HKUNLP/STRING) \| A  training-free method after analyzing the effective context length of LLMs. -->
 
----
+<!-- ---
 
 [L-Eval: Instituting Standardized Evaluation for Long Context Language Models](https://arxiv.org/pdf/2307.11088.pdf) (ACL 2024 <span style="color: red;">Outstanding</span>)
 
@@ -120,7 +140,7 @@ Chenxin An, Fei Huang, Jun Zhang, **Shansan Gong**, Xipeng Qiu, Chang Zhou, Ling
 
 Mukai Li, **Shansan Gong**, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu, Lingpeng Kong
 
-[EVALM](https://github.com/Shark-NLP/EVALM) \| The pre-trained language model with efficient attention and 8k context length.
+[EVALM](https://github.com/Shark-NLP/EVALM) \| The pre-trained language model with efficient attention and 8k context length. -->
 
 <!-- ---
 
@@ -132,9 +152,9 @@ Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, **Shansan Gong**, Lemao L
 
 BBA is designed to maximize the potential of DSL in augmenting complex multi-modal reasoning tasks. -->
 
----
+<!-- ---
 
-## Before LLMs
+## Before LLMs -->
 
 <!-- [Transferable and Efficient: Unifying Dynamic Multi-Domain Product Categorization](https://aclanthology.org/2023.acl-industry.46/) (ACL 2023 Industry)
 
@@ -142,7 +162,7 @@ BBA is designed to maximize the potential of DSL in augmenting complex multi-mod
 
 [Data](https://github.com/ze-lin/TaLR) \| [Poster](./uploads/TaLR-poster.pdf) \| A new framework to unify the categorization process as well as leverage knowledge from different domains. -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/sigir22.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/sigir22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Positive, Negative and Neutral: Modeling Implicit Feedback in Session-based News Recommendation](https://dl.acm.org/doi/10.1145/3477495.3532040)
@@ -151,7 +171,6 @@ BBA is designed to maximize the potential of DSL in augmenting complex multi-mod
 
 [TCAR ![](https://img.shields.io/github/stars/summmeer/session-based-news-recommendation?style=social)](https://github.com/summmeer/session-based-news-recommendation) | [Slides](./uploads/SIGIR22-fp1153-slides.pdf)\|
 By leveraging different kinds of implicit feedback, we alleviate the trade-off between the precision and diversity.
-<!-- - We tackle user/article cold-start problem to some extend, which is effective for real-world application. -->
 
 </div>
-</div>
+</div> -->
